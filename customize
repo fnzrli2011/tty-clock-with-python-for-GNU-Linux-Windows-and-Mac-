@@ -1,0 +1,6 @@
+open main.py
+
+change font 
+go to 14 or 15 (if you change 'tty-clock' text , you got to 14 , else if you change clock ,you go to 15)and Change 'Arial'
+change color 
+go to 14 or 15 (if you change 'tty-clock' text , you got to 14 , else if you change clock ,you go to 15) and Change bg for background , fg for clock color
